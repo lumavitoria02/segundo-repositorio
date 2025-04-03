@@ -11,10 +11,30 @@ body {
     padding; 50px 0;
 }
 
-estudante-titulo {
+.estudante-imagem {
     text-align: center
     padding 16px 0
-}
-;
+  } 
+  
+  .estudante-imagem {
+     width: 25px;
+  }
+
+  .estudante-icone {
+    width: 25px;
+    padding:4px 8px
+  }
+  
+  footer {
+     background-color: blue;
+  }
+ 
+   .rodape {
+      background-color: aquamarine
+      text-align:center
+      
+   }
+    
+ }
 
 
